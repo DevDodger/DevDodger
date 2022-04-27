@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Python | Lua | Java | Luau | Batch | Bash
 - 🌐 &nbsp; HTML | CSS | JavaScript | 
-- 🔧 &nbsp; Notepad ++ | Visual Studio code | Visual Studio 2022 Proefessional | Git
+- 🔧 &nbsp; Notepad ++ | Visual Studio code | Visual Studio 2022 Professional | Git | Sublime | 
 - 🖥 &nbsp; Adobe Photoshop | Premier Pro | After Effects | Davinci Resolve
   
 <h3> 🖥️ Setup</h3>
