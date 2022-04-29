@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70404&lines=dodger+is+cool;i+script+stuff;open+source+is+awesome+;fun+fact+i+like+the+dodgers;scripting+is+an+adventure;always++obfuscate+your+scripts+kids!;always+have+fun+while+making+games)](https://git.io/typing-svg)">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
   
