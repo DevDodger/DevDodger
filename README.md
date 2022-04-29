@@ -2,7 +2,12 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70404&lines=dodger+is+cool;i+script+stuff;open+source+is+awesome+;fun+fact+i+like+the+dodgers;scripting+is+an+adventure;always++obfuscate+your+scripts+kids!;always+have+fun+while+making+games)](https://git.io/typing-svg)">
+</p>
 
+  
 - 🔭 &nbsp; I'm currently learning Discord.py / Discord.js
 - 🤔 &nbsp; Working on Lua, Python, and Bash projects 
 - 🎓 &nbsp; Studying Computer Science, and Computer Programming
@@ -21,6 +26,12 @@
 - 💻 &nbsp; TITAN X |  i5 11600k | 32GB 3200 MHZ RAM | CORSAIR WATERCOOLING | WIN 11
 - 💻 &nbsp; GTX 1050 | i7 7700HQ | 8GB  2400 MHZ RAM | WIN 10
 - 💻 &nbsp; i5 11600k | 12gb 3200 MHZ RAM | Ubuntu 20.04
+  
+  <h3> Friends </h3>
+
+
+  [![Nolan](https://github.com/MushyToast.png?size=60)](https://github.com/MushyToast)
+  [![Daniel](https://github.com/DevAnxllty.png?size=60)](https://github.com/DevAnxllty)
 
   
 <br>
