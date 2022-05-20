@@ -48,5 +48,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdodger)](https://github.com/devdodger/github-readme-stats)
 
+<br>
+
+<p>Most Recent Project</p>
+<br>
+
+[![Plus-Obfuscate](https://github-readme-stats.vercel.app/api/pin/?username=devdodger&repo=Obfuscator-Plus)](https://github.com/devdodger/Obfuscator-Plus)
+
+
 
 ⭐️ From [DevDodger](https://github.com/DevDodger)
