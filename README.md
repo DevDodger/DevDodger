@@ -33,15 +33,20 @@
 
   [![Nolan](https://github.com/MushyToast.png?size=60)](https://github.com/MushyToast)
   [![Daniel](https://github.com/DevAnxllty.png?size=60)](https://github.com/DevAnxllty)
-
+<center>
+ <img src= https://camo.githubusercontent.com/ebfdd465daa90626d0ab0d0fddc0e457c942a392/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667>
+<h1>
+  Statistics
+  </h1>
+</center>
   
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevDodger&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="DevDodger's Github Stats">
+![dodger's github stats](https://github-readme-stats.vercel.app/api?username=devdodger)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDodger&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DevDodger/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdodger)](https://github.com/devdodger/github-readme-stats)
 
 
 ⭐️ From [DevDodger](https://github.com/DevDodger)
