@@ -24,7 +24,7 @@
   
 <h3> 🖥️ Setup</h3>
 
-- 💻 &nbsp; TITAN X |  i5 11600k | 32GB 3200 MHZ RAM | CORSAIR WATERCOOLING | WIN 11
+- 💻 &nbsp; RTX 3060Ti |  i5 11600k | 32GB 3200 MHZ RAM | CORSAIR WATERCOOLING | WIN 11
 - 💻 &nbsp; GTX 1050 | i7 7700HQ | 8GB  2400 MHZ RAM | WIN 10
 - 💻 &nbsp; i5 11600k | 12gb 3200 MHZ RAM | Ubuntu 20.04
   
