@@ -13,7 +13,7 @@
 - 🤔 &nbsp; Working on Lua, Python, and Bash projects 
 - 🎓 &nbsp; Studying Computer Science, and Computer Programming
 - 💼 &nbsp; Advanced Luau Developer, Cheats and backdoors / Anti-cheats
-- 🌱 &nbsp; Enthusiast in cyber Security and hacking
+- 🌱 &nbsp; Enthusiast in Cyber Security and Hacking
 
 <h3>🛠 Tech Stack</h3>
 
