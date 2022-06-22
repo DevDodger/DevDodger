@@ -1,7 +1,29 @@
+```py
+DevDodger/README.py running
+
+Welcome to my profile,
+
+
+def aboutme():
+  print('Welcome To my profile')
+  print('I am DevDodger')
+  print('You can read about me below!')
+  
+def main():
+  aboutme()
+```
+
+
+
+
+
+<!----
+
 <h2> Hey there! I'm DevDodger. 
 
 <h3> 👨🏻‍💻 About Me </h3>
-  
+<!---->
+ 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?duration=1&color=18F733&center=true&vCenter=true&lines=By+DeVdOdGeR;by+devdodger;BY+DEVDODGER;by+DEVDODGER">
 </p>
