@@ -1,3 +1,6 @@
+<img src="https://cdn.discordapp.com/attachments/749095568625762334/991472848566747146/unknown.png">
+<p><i>Stranger Things (Reminds me of when I ride my bike)</i></p>
+
 ```py
 DevDodger/README.py running
 
@@ -12,7 +15,6 @@ def aboutme():
 def main():
   aboutme()
 ```
-
 
 
 
