@@ -27,12 +27,9 @@ def main():
 
 <h3> 👨🏻‍💻 About Me </h3>
 <!---->
- 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?duration=1&color=18F733&center=true&vCenter=true&lines=By+DeVdOdGeR;by+devdodger;BY+DEVDODGER;by+DEVDODGER">
-</p>
+
   
-<img src="https://discord.c99.nl/widget/theme-3/383735130767753227.png"/>
+<img src="https://discord.c99.nl/widget/theme-2/383735130767753227.png"/>
 
   
 - 🔭 &nbsp; I'm currently learning Discord.py / Discord.js
