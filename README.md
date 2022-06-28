@@ -1,7 +1,5 @@
-<img src="https://cdn.discordapp.com/attachments/749095568625762334/991472848566747146/unknown.png">
-<p><i>Stranger Things (Reminds me of when I ride my bike)</i></p>
 <img src="https://retromash.com/wp-content/uploads/2016/09/strangerthingsbanner.jpg">
-<p><i>I love the VFX, and this scene reminds me of adventuring (which I love)</i></p>
+<p><i>Stranger Things <b>(BEST SCENE) </b></i></p>
 
 ```py
 DevDodger/README.py running
