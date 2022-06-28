@@ -31,10 +31,11 @@ def main():
 
   
 - 🔭 &nbsp; I'm currently learning Discord.py / Discord.js
-- 🤔 &nbsp; Working on Lua, Python, and Bash projects 
-- 🎓 &nbsp; Studying Computer Science, and Computer Programming
+- 🤔 &nbsp; Working on Lua, Python, and HTML projects (bloxy.digital) (RAYCASTR)
+- 🎓 &nbsp; Studying Advanced Computer Science, and Computer Programming
 - 💼 &nbsp; Advanced Luau Developer, Cheats and backdoors / Anti-cheats
-- 🌱 &nbsp; Enthusiast in Cyber Security and Hacking
+- 🌱 &nbsp; Enthusiast in Cyber Security
+- 👟 &nbsp; Sneakerhead 
 
 <h3>🛠 Tech Stack</h3>
 
