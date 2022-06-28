@@ -48,7 +48,22 @@ def main():
 - 💻 &nbsp; RTX 3060Ti |  i5 11600k | 32GB 3200 MHZ RAM | CORSAIR WATERCOOLING | WIN 11
 - 💻 &nbsp; GTX 1050 | i7 7700HQ | 8GB  2400 MHZ RAM | WIN 10
 - 💻 &nbsp; i5 11600k | 12gb 3200 MHZ RAM | Ubuntu 20.04
-  
+
+<h3> Things I like and have done </h3>
+<br>
+- Sneakerhead{
+<br>
+i own - jordan 1 craft inside out
+<br>
+i own - nike air force one Off-White Black White
+<br>
+and some others but those are my 2 main.
+<br>
+}
+<br>
+- Contributor for Bloxy (verified) https://bloxy.digital  or https://discord.gg/U6tYgjuuSd
+<br>
+<br>
   <h3> Friends </h3>
 
 
