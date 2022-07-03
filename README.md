@@ -71,7 +71,7 @@ and some others but those are my 2 main.
   [![Nolan](https://github.com/MushyToast.png?size=60)](https://github.com/MushyToast)
   [![Daniel](https://github.com/DevAnxllty.png?size=60)](https://github.com/DevAnxllty)
   [![Danna](https://github.com/shevanswife.png?size=60)](https://github.com/shevanswife)
-  [![Vince](https://github.com/epg-4-life.png?size=60)](https://github.com/shevanswife)
+  [![Vince](https://github.com/epg-4-life.png?size=60)](https://github.com/epg-4-life)
 <center>
  
 <h2 align="center">My Stats</h2>
