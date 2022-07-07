@@ -1,5 +1,4 @@
-<img src="https://retromash.com/wp-content/uploads/2016/09/strangerthingsbanner.jpg">
-<p><i>Stranger Things <b>(BEST SCENE) </b></i></p>
+
 
 ```py
 DevDodger/README.py running
