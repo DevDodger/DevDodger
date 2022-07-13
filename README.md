@@ -74,6 +74,13 @@ and some others but those are my 2 main.
   
 <center>
  
+ 
+ ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/the989uc2ymxusqkcrlfxsyzo)
+<br/>
+---
+ 
 <h2 align="center">My Stats</h2>
  <p align="center">
  <a href="https://www.youtube.com/channel/UCX_Coa0KVnjpK7BO2SHbKjw" target="_blank">
