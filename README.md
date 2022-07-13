@@ -1,34 +1,14 @@
 
 
-```py
-DevDodger/README.py running
 
-Welcome to my profile,
-
-
-def aboutme():
-  print('Welcome To my profile')
-  print('I am DevDodger')
-  print('You can read about me below!')
-  
-def main():
-  aboutme()
-```
-
-
-<img src="https://komarev.com/ghpvc/?username=devdodger&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-
-
-<!----
 
 <h2> Hey there! I'm DevDodger. 
 
 <h3> 👨🏻‍💻 About Me </h3>
-<!---->
 
-  
-<img src="https://discord.c99.nl/widget/theme-2/383735130767753227.png"/>
-
+[![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://devdodger.studio/)](https://devdodger.studio)
+<img src="https://komarev.com/ghpvc/?username=devdodger&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+<br>
   
 - 🔭 &nbsp; I'm currently learning Discord.py / Discord.js
 - 🤔 &nbsp; Working on Lua, Python, and HTML projects (bloxy.digital) (RAYCASTR)
@@ -51,35 +31,25 @@ def main():
 - 💻 &nbsp; i5 11600k | 12gb 3200 MHZ RAM | Ubuntu 20.04
 
 <h3> Things I like and have done </h3>
-<br>
-- Sneakerhead{
-<br>
-i own - jordan 1 craft inside out
-<br>
-i own - nike air force one Off-White Black White
-<br>
-and some others but those are my 2 main.
-<br>
-}
-<br>
 - Contributor for Bloxy (verified) https://bloxy.digital  or https://discord.gg/U6tYgjuuSd
 <br>
 <br>
-  <h3> Friends </h3>
+
+<a href="https://github.com/MushyToast/CyberBlue/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MushyToast/CyberBlue" />
+</a>
 
 
-  [![Nolan](https://github.com/MushyToast.png?size=60)](https://github.com/MushyToast)
-  [![Daniel](https://github.com/DevAnxllty.png?size=60)](https://github.com/DevAnxllty)
-  [![Danna](https://github.com/shevanswife.png?size=60)](https://github.com/shevanswife)
-  
-<center>
  
- 
+ Am I online?
+ <br>
+ <img src="https://discord.c99.nl/widget/theme-2/383735130767753227.png"/>
+ <br>
+ <br>
  ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/the989uc2ymxusqkcrlfxsyzo)
-<br/>
----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the989uc2ymxusqkcrlfxsyzo&cover_image=true&theme=default&bar_color=0062ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<br>
  
 <h2 align="center">My Stats</h2>
  <p align="center">
@@ -89,3 +59,5 @@ and some others but those are my 2 main.
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DevDodger&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
  </a>
  </p>
+
+[![Devdodgers's github activity graph](https://activity-graph.herokuapp.com/graph?username=devdodger&theme=xcode)](https://git.io/devdodger)
