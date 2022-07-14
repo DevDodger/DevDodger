@@ -10,6 +10,10 @@
 <img src="https://komarev.com/ghpvc/?username=devdodger&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
 <br>
   
+![Discord](https://cdn.discordapp.com/attachments/959656598421266453/997252996834533457/unknown.png)
+
+</href><a href="https://discord.gg/jc34zFsDTj">Join Discord</a>
+
 - 🔭 &nbsp; I'm currently learning Discord.py / Discord.js
 - 🤔 &nbsp; Working on Lua, Python, and HTML projects (bloxy.digital) (RAYCASTR)
 - 🎓 &nbsp; Studying Advanced Computer Science, and Computer Programming
