@@ -50,6 +50,7 @@
  <img src="https://discord.c99.nl/widget/theme-2/383735130767753227.png"/>
  <br>
  <br>
+ <img scr="https://cdn.discordapp.com/attachments/983842326361297006/1012857899602694174/unknown.png">
  ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the989uc2ymxusqkcrlfxsyzo&cover_image=true&theme=default&bar_color=0062ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
