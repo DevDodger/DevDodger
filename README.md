@@ -14,7 +14,7 @@
 
 </href><a href="https://discord.gg/jc34zFsDTj">Join Discord</a>
 
-- 🔭 &nbsp; I'm currently learning Discord.py / Discord.js
+- 🔭 &nbsp; I'm currently learning java and more advanced python, and touching up on old luau concepts
 - 🤔 &nbsp; Working on Lua, Python, and HTML projects (bloxy.digital) (RAYCASTR)
 - 🎓 &nbsp; Studying Advanced Computer Science, and Computer Programming
 - 💼 &nbsp; Advanced Luau Developer, Cheats and backdoors / Anti-cheats
