@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I ride bikes a lot**
 
+- Profile visits:  <img src="https://komarev.com/ghpvc/?username=devdodger&label=Profile%20Views&color=9645f4&style=flat&label=Visitors" alt="Visitors"></a>
+
 <p align="left">
 </p>
 
