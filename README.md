@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Reid</h1>
 <h3 align="center">A Web Developer and Roblox Script & Game Developer!</h3>
 
-- 🔭 I’m currently working on **California RP for ROBLOX, and Krofit, The next generation ROBLOX script monetization tool.**
+- 🔭 I’m currently working on **California RP for ROBLOX, and Krofit, The next-generation ROBLOX script monetization tool.**
 
 - 🌱 I’m currently learning **and touching up on luau, and on python! I'm learning better video editing and REACT for web development.**
 
 - 👯 I’m looking to collaborate on **Anything!**
 
-- 👨‍💻 Most of my projects are available at [https://devdodger.studio](https://devdodger.studio)
+- 👨‍💻 Most of my projects are available at (WEBSITE DELETED!)
 
 - 💬 Ask me about **Roblox development and web development**
 
